@@ -12,8 +12,6 @@
 ## To run locally
 
 1. python sde_solution.py <input_file_path> <output_file_path>
-
-  e.g.,
     ```bash
     python sde_solution.py sample_input.json sample_output.json
     ```
